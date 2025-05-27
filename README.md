@@ -24,7 +24,7 @@ Label Dash is a gamified text labeling tool built with Streamlit. It lets you qu
 1.  **Clone the repo**
 
     ```bash
-    git clone [https://github.com/danishjeetsingh/label_dash.git](https://github.com/danishjeetsingh/label_dash.git)
+    git clone https://github.com/danishjeetsingh/label_dash.git
     cd label_dash
     ```
 
